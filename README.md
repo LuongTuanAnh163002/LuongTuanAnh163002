@@ -14,3 +14,6 @@ if __name__ == '__main__':
     me = AI_Engineer()
     me.say_hi()
 ```
+<hr>
+
+<hr>
